@@ -41,7 +41,7 @@ This project explores innovative methods for predicting Time to Solve Tasks (TtS
 
 ## Citation
 If you use this code, please cite the Zenodo record:
-[![DOI](https://zenodo.org/badge/804013389.svg)](https://zenodo.org/doi/10.5281/zenodo.12661714)
+[![DOI](https://zenodo.org/badge/804013389.svg)](https://zenodo.org/doi/10.5281/zenodo.12668741)
 
 
 ## Acknowledgments

@@ -1,6 +1,3 @@
-Sure! Here's the README content formatted as Markdown code:
-
-```markdown
 # Predicting Time to Solve Tasks (TtST) in GitHub Issues
 
 ## Description

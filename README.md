@@ -12,13 +12,7 @@ This project explores innovative methods for predicting Time to Solve Tasks (TtS
 - `requirements.txt`: List of required Python packages.
 
 ## Installation
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/yourrepository.git
-   cd yourrepository
-   ```
-
-2. Install the required dependencies:
+1. Install the required dependencies:
    ```sh
    pip install -r requirements.txt
    ```
@@ -52,11 +46,8 @@ This project explores innovative methods for predicting Time to Solve Tasks (TtS
 If you use this code, please cite the Zenodo record:
 [![DOI](https://zenodo.org/badge/DOI/YOUR_DOI.svg)](https://doi.org/YOUR_DOI)
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
-This research was supported by [Your Institution/Organization]. Special thanks to the contributors of the freeCodeCamp repository and the open-source community.
+Special thanks to the contributors of the freeCodeCamp repository and the open-source community.
 ```
 
 Replace the placeholders (`yourusername` and `YOUR_DOI`) with your actual GitHub username and the DOI provided by Zenodo before using this README.

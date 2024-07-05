@@ -41,10 +41,10 @@ This project explores innovative methods for predicting Time to Solve Tasks (TtS
 
 ## Citation
 If you use this code, please cite the Zenodo record:
-[![DOI](https://zenodo.org/badge/DOI/YOUR_DOI.svg)](https://doi.org/YOUR_DOI)
+[![DOI](https://zenodo.org/badge/804013389.svg)](https://zenodo.org/doi/10.5281/zenodo.12661714)
+
 
 ## Acknowledgments
 Special thanks to the contributors of the freeCodeCamp repository and the open-source community.
 ```
 
-Replace the placeholders (`yourusername` and `YOUR_DOI`) with your actual GitHub username and the DOI provided by Zenodo before using this README.
